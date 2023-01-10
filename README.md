@@ -39,7 +39,7 @@ This is a command-line application that generates a README file based on the use
 * The user will be asked to choose one of the list of licenses. to be specified in the section entitled with License 
 and according to the selected license a badge will be rendered at the top of the README file
 
-![Screenshot](./utils/license.png)
+![Screenshot](./Develop/utils/license.png)
 
 
 * The user will provide the application with other contributings to be written in the section of contributings
@@ -53,5 +53,5 @@ and according to the selected license a badge will be rendered at the top of the
 #
 
 
-![Screenshot](./utils/readmesample.png)
-![Screenshot](./utils/readmesample2.png)
+![Screenshot](./Develop/utils/readmesample.png)
+![Screenshot](./Develop/utils/readmesample2.png)
