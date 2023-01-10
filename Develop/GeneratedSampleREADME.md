@@ -38,6 +38,6 @@
 
   #
   ## Questions
-  This is my profile on GitHub: [@shaimaaGhamry](shaimaaGhamry)
+  This is my profile on GitHub: [@shaimaaGhamry](https://github.com/shaimaaGhamry)
 
   If you have any additional questions, don't hesitate to email me at: [shimaa_elghamry@hotmail.com](mailto:shimaa_elghamry@hotmail.com)

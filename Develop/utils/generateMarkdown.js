@@ -66,7 +66,7 @@ function generateMarkdown(data) {
 
   #
   ## Questions
-  This is my profile on GitHub: [@${data.repoName}](${data.repoName})
+  This is my profile on GitHub: [@${data.repoName}](https://github.com/${data.repoName})
 
   If you have any additional questions, don't hesitate to email me at: [${data.email}](mailto:${data.email})
 `;
